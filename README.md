@@ -1,5 +1,5 @@
 # Assignment 4: Synthesis  
-Author: Nihal John George
+Author: Nihal John George  
 This assignment is an extension of the original a4, with the addition of synthesis using yosys.
 
 ## Goals
