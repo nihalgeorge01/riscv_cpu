@@ -1,0 +1,9 @@
+alu.v
+regfile.v
+immgen.v
+mask_n_shift.v
+control.v
+cpu.v
+cpu_tb.v
+dmem.v
+imem.v
