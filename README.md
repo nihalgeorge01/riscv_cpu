@@ -1,6 +1,7 @@
 # Assignment 4: Synthesis  
+EE2003 Computer Organization July-Nov 2021  
 Author: Nihal John George  
-This assignment is an extension of the original a4, with the addition of synthesis using yosys.
+A synthesizable RISC-V CPU written from scratch in Verilog
 
 ## Goals
 
